@@ -8,3 +8,6 @@ you can make some changes in this github repo,
 and make a pull request.After reviewing your contribution i can merge your pull request.
 making this projects better
 
+## WHY CONTRIBUE
+By contributing , we can experience projects development process,
+and have a better skills on project development
